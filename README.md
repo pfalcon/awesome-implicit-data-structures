@@ -8,6 +8,12 @@
 
 * https://en.wikipedia.org/wiki/Binary_heap
 
+## D-ary heap (D-heap) and B-heap
+
+* https://en.wikipedia.org/wiki/D-ary_heap
+* https://en.wikipedia.org/wiki/B-heap
+* https://github.com/valyala/gheap
+
 ## Min-max heap
 
 * https://en.wikipedia.org/wiki/Min-max_heap
