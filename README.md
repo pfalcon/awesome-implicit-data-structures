@@ -2,9 +2,15 @@
 
 ## Sorted list
 
+* https://en.wikipedia.org/wiki/Binary_search_algorithm
+
 ## Binary heap
 
+* https://en.wikipedia.org/wiki/Binary_heap
+
 ## Min-max heap
+
+* https://en.wikipedia.org/wiki/Min-max_heap
 
 ## Binomial list (Bentley-Saxe)
 
@@ -12,6 +18,8 @@ Doesn't support deletes natively, uses "soft deletes" (marking an element
 as deleted).
 
 ## Beap (Bi-parental heap)
+
+* https://en.wikipedia.org/wiki/Beap
 
 ## Rotated sorted lists
 
