@@ -36,6 +36,10 @@ as deleted).
 
 https://en.wikipedia.org/wiki/Succinct_data_structure
 
+List dedicated to succint structures:
+
+* https://github.com/pombredanne/awesome-succint-data-structures
+
 Libs:
 
 * https://github.com/simongog/sdsl-lite (GPLv3)
