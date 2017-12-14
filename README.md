@@ -1,5 +1,7 @@
 # Implicit data structures
 
+https://en.wikipedia.org/wiki/Implicit_data_structure
+
 ## Sorted list
 
 * https://en.wikipedia.org/wiki/Binary_search_algorithm
@@ -32,7 +34,11 @@ as deleted).
 
 # Succint data structures
 
-https://github.com/simongog/sdsl-lite
+https://en.wikipedia.org/wiki/Succinct_data_structure
+
+Libs:
+
+* https://github.com/simongog/sdsl-lite (GPLv3)
 
 ## Red-black trees
 
