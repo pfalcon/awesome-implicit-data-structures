@@ -28,6 +28,7 @@ as deleted).
 ## Beap (Bi-parental heap)
 
 * https://en.wikipedia.org/wiki/Beap
+* Implementation in Python: https://github.com/pfalcon/beap
 
 ## Rotated sorted lists
 
