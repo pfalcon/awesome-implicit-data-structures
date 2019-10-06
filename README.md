@@ -16,6 +16,16 @@ https://en.wikipedia.org/wiki/Implicit_data_structure
 * https://en.wikipedia.org/wiki/B-heap
 * https://github.com/valyala/gheap
 
+## Poplar heap
+
+* Description and implementation in https://github.com/Morwenn/poplar-heap
+
+## Post-order heap
+
+Largely similar to poplar heap above.
+
+* Paper: https://people.csail.mit.edu/nickh/Publications/PostOrderHeap/FUN04-PostOrderHeap.pdf
+
 ## Min-max heap
 
 * https://en.wikipedia.org/wiki/Min-max_heap
